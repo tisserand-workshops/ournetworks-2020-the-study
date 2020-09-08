@@ -1,3 +1,6 @@
+![the study presentation logo](https://github.com/tisserand-workshops/ournetworks-2020-the-study/blob/main/social.png)
+
+
 # The Study - a literary mesh
 
 An @eviau experimental workshop for Our Networks 2020.
