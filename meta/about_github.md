@@ -1,6 +1,6 @@
 # About GitHub
 
-GitHub is a platform oriented towards open source projects. It provides version control through git, hence the name. 
+GitHub is a platform oriented towards open source projects. It provides version control through [git](https://git-scm.com/), hence the name. 
 
 Here is some information about the platform and about git, and how to use one of them or both for this literary mesh workshop :tada:
 
